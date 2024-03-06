@@ -7,4 +7,5 @@ A Calculadora de Média Escolar é uma ferramenta fundamental para estudantes, d
 Participar deste projeto foi uma experiência enriquecedora, pois além de contribuir para uma causa importante, pude interagir e aprender com uma comunidade diversificada de desenvolvedoras, compartilhando conhecimentos e experiências.
 
 Confira o código no CodePen (https://codepen.io/thalitasoliveira/pen/YzMyjPW)
+
 Video Apresentação: (https://vimeo.com/920254829/de311655c6?share=copy)
